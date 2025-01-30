@@ -1,0 +1,6 @@
+server:
+  port: 8080
+spring:
+  application.name: webhook
+webhook:
+  secret.key: SECRET+webhook@125
